@@ -1,3 +1,9 @@
+/*DATA ANALYSIS ON COVID DEATHS AND VACCINATION DATA
+
+DATA USED -https://ourworldindata.org/covid-deaths
+*/
+
+
 select continent,location,date,total_cases,new_cases,total_deaths,population from CovidDeaths where continent is not null order by 1,2 ;
 
 -- 1)Looking at Total cases vs Todal deaths
