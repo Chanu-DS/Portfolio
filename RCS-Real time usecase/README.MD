@@ -3,12 +3,12 @@
 
 ## A few months ago, we Robotics Club @ Sastra (Our students club) conducted an Online exam to recruit our Juniors.
 ### But it's not a manual task to maintain track how
-#### - How many registered?
-#### - How many students out of registered people, wrote the exam?
-#### - How many Girls, How many boys are in the Datasets?
-#### - How many people from each branch showed up?
-#### There are many such tasks and questions to keep track of and given answer to.
- It's a difficult task to do in short notice unless one knows Python and Pandas and can put them to use.
+- How many registered?
+- How many students out of registered people, wrote the exam?
+- How many Girls, How many boys are in the Datasets?
+- How many people from each branch showed up?
+There are many such tasks and questions to keep track of and given answer to.
+It's a difficult task to do in short notice unless one knows Python and Pandas and can put them to use.
  
  I've learnt a lot about real time data even though the project is not huge.
  
