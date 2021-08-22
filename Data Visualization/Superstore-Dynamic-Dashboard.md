@@ -4,4 +4,4 @@
 
 ### A fully dynamic dashboard to visualize and understand the Sales,Profit of Various categories and Subcategories of Products sold with different modes of transport.
 
-#### Check out the dashboard how various factors are influencing the sales and profit
+#### Check out the dashboard to understand how various factors are influencing the sales and profit
