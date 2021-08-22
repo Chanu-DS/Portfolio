@@ -6,7 +6,7 @@
 - How many registered?
 - How many students out of registered people, wrote the exam?
 - How many Girls, How many boys are in the Datasets?
-- How many people from each branch showed up?
+- How many people from each branch showed up?  
 There are many such tasks and questions to keep track of and given answer to.
 It's a difficult task to do in short notice unless one knows Python and Pandas and can put them to use.
  
