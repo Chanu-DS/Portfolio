@@ -12,8 +12,8 @@
  
  I've learnt a lot about real time data even though the project is not huge.
  
- ## Input - 2 big Datasets (i) Dataset of exam registrations (ii) Dataset returned by Online exam website.
- ## Output - Several Spreadsheets that clearly show the 
+ ### Input - 2 big Datasets (i) Dataset of exam registrations (ii) Dataset returned by Online exam website with marks.
+ ### Output - Several Spreadsheets that clearly show the 
  ####          1.Branch wise count
  ####          2.Marks percentage distributions
  ####          3.Various cut-offs and count of students under the cut-off
