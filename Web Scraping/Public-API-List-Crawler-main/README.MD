@@ -23,7 +23,7 @@ Everything is exceuted - from requesting API for a token to storing in Database
 ### Dependencies
 - Microsoft SQL Server 2019
 - Python 3.9.6
-- Python libraries -[requirements](https://github.com/Chanu-DS/Public-API-List-Crawler/blob/main/get_api/requirements.txt)
+- Python libraries -[requirements](https://github.com/Chanu-DS/Portfolio/blob/main/Web%20Scraping/Public-API-List-Crawler-main/get_api/requirements.txt)
 
 ## Details of Code:
 ##### [collect_api.py](https://github.com/Chanu-DS/Portfolio/blob/main/Web%20Scraping/Public-API-List-Crawler-main/get_api/collect_api.py)-- Need to run only this script.
