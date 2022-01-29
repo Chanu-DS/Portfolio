@@ -1,2 +1,2 @@
-# Chanukya's Portfolio, go to my portfolio website - [HERE](https://chanu-ds.github.io/ChanukyaSai.github.io/)
+# Chanukya's Portfolio
 ## Data Analysis Projects, Machine Learning Projects and Data Visualization Projects.
