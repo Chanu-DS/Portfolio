@@ -1,2 +1,2 @@
 # Chanukya's Portfolio
-## Data Analysis Projects, Machine Learning Projects and Data Visualization Projects.
+## Isolated Word Recognition Project, Data Analysis Projects, Machine Learning Projects and Data Visualization Projects.
